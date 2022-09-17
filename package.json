@@ -1,0 +1,23 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "A command line RPG with player objects, enemy objects, and potion objects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbcomps/jest-another-RPG.git"
+  },
+  "keywords": [
+    "RPG",
+    "CLI"
+  ],
+  "author": "David Barraza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbcomps/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/dbcomps/jest-another-RPG#readme"
+}
